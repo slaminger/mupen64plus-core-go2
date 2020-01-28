@@ -35,7 +35,7 @@
 #include "m64p_vidext.h"
 #include "vidext.h"
 
-#include <go2/display.h>
+#include <display.h>
 #include <drm/drm_fourcc.h>
 
 #if SDL_VERSION_ATLEAST(2,0,0)
